@@ -29,6 +29,8 @@ I was frustrated because I couldn’t think of any good Trait Tracker combinatio
 
 * Improved UI for better experience on mobile devices
 
+**More than 2,500 people used it from May 2–5!**
+
 Support ❌ not available. (Just kidding, it is.)
 
 ![image](https://github.com/user-attachments/assets/7950570d-344c-48ad-aebc-f999b2d4badc)
