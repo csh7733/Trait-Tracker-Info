@@ -23,7 +23,7 @@ I was frustrated because I couldn’t think of any good Trait Tracker combinatio
 
 **V3.0**
 
-* Added internationalization (i18n)
+* Added internationalization (i18n : ko,en,zh) -> update more later!
 
 **V4.0**
 
