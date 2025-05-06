@@ -1,4 +1,7 @@
 # Trait-Tracker (https://tft123.site)
+
+![image](https://github.com/user-attachments/assets/f47120f6-f63a-407a-b216-8eb70ef37d96)
+
 ---
 
 I was frustrated because I couldn’t think of any good Trait Tracker combinations—so I built this tool.
@@ -33,7 +36,6 @@ I was frustrated because I couldn’t think of any good Trait Tracker combinatio
 
 Support ❌ not available. (Just kidding, it is.)
 
-![image](https://github.com/user-attachments/assets/f47120f6-f63a-407a-b216-8eb70ef37d96)
 
 
 
